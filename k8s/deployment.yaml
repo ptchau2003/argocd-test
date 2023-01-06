@@ -16,6 +16,6 @@ spec:
       - name: my-app
         image: hashicorp/http-echo
         args:
-        - "-text=version 1-31-0"
+        - "-text=version 1-32-0"
         ports:
         - containerPort: 5678
